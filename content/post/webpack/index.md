@@ -1,7 +1,7 @@
 +++
-title = "Display Jupyter Notebooks with Academic"
-subtitle = "Learn how to blog in Academic using Jupyter notebooks"
-summary = "Learn how to blog in Academic using Jupyter notebooks"
+title = "Tutorial of webpack+vue+node(+ts)"
+subtitle = "Set up a web-based project step-by-step."
+summary = "I want to create a tutorial of web-based application, enabling the novice in our group to quickly grasp the basic concepts and skills in system development."
 date = 2019-02-05T00:00:00Z
 draft = false
 
