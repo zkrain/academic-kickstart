@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Ph.D. Student"
-  company = "Zhejiang University"
+  company = "State Key Lab of CAD & CG, Zhejiang University"
   company_url = ""
   location = "Hangzhou, China"
   date_start = "2018-09-13"
   date_end = ""
   # description = """
   # Responsibilities include:
-  
+
   # * Analysing
   # * Modelling
   # * Deploying
@@ -34,8 +34,17 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Algorithm Engineer"
+  company = "Zhejiang Lab"
+  company_url = "http://www.zhejianglab.com/"
+  location = "Hangzhou, China"
+  date_start = "2019-04-22"
+  date_end = ""
+
+
+[[experience]]
+  title = "Algorithm Engineer"
   company = "Urban Computing Lab, JD Finance"
-  company_url = ""
+  company_url = "http://icity.jd.com/"
   location = "Beijing, China"
   date_start = "2018-04-14"
   date_end = "2018-09-11"
@@ -43,7 +52,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Zhejiang University"
+  company = "State Key Lab of CAD & CG, Zhejiang University"
   company_url = ""
   location = "Hangzhou, China"
   date_start = "2017-07-10"

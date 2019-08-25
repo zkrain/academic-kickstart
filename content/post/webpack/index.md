@@ -1,8 +1,8 @@
 +++
-title = "Tutorial of webpack+vue+node(+ts)"
-subtitle = "Set up a web-based project step-by-step."
-summary = "I want to create a tutorial of web-based application, enabling the novice in our group to quickly grasp the basic concepts and skills in system development."
-date = 2019-02-05T00:00:00Z
+title = "Interactive Visual Analytics System Generator"
+subtitle = "A project in Zhejiang Lab..."
+summary = ""
+date = 2019-08-25T00:00:00Z
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,13 +16,13 @@ categories = []
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects = ["internal-project"]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""

@@ -3,7 +3,7 @@ title = "SRVis: Towards Better Spatial Integration in Ranking Visualization"
 date = 2018-09-05T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Di Weng", "Ran Chen", "admin", "Feiran Wu", "Jingmin Chen", "Yingcai Wu"]
+authors = ["Di Weng", "Ran Chen", "**Zikun Deng**", "Feiran Wu", "Jingmin Chen", "Yingcai Wu"]
 
 # Publication type.
 # Legend:
@@ -41,16 +41,16 @@ featured = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "http://zjuvis.org/files/srvis.pdf"
+url_pdf = "http://zjuidg.org/files/srvis.pdf"
 # url_code = "#"
 # url_dataset = "#"
-url_project = "https://srvis.zjuvis.org/"
+url_project = "https://srvis.zjuidg.org/"
 # url_slides = "#"
 url_video = "https://www.youtube.com/watch?v=lenSZci4gy4"
 # url_poster = "#"
@@ -61,7 +61,7 @@ url_video = "https://www.youtube.com/watch?v=lenSZci4gy4"
 # links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = "Interface of SRVis"
