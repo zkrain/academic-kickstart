@@ -34,6 +34,11 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
 
 [[education.courses]]
+  course = "Ph.D. Student, Computer Science"
+  institution = "Zhejiang University"
+  year = "current"
+
+[[education.courses]]
   course = "Bachelor, Transportation Engineering"
   institution = "Sun Yat-sen University"
   year = 2018
