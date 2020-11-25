@@ -20,13 +20,13 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Transaction on Visualization and Computer Graphics"
-publication_short = "IEEE TVCG Early Access (2019). (IEEE Vast 2019)"
+publication_short = "IEEE TVCG 26.1 (2020), 800-810. (IEEE VAST 2019)"
 
 # Abstract.
 abstract = "Air pollution has become a serious public health problem for many cities around the world. To find the causes of air pollution, the propagation processes of air pollutants must be studied at a large spatial scale. However, the complex and dynamic wind fields lead to highly uncertain pollutant transportation. The state-of-the-art data mining approaches cannot fully support the extensive analysis of such uncertain spatiotemporal propagation processes across multiple districts without the integration of domain knowledge. The limitation of these automated approaches motivates us to design and develop AirVis, a novel visual analytics system that assists domain experts in efficiently capturing and interpreting the uncertain propagation patterns of air pollution based on graph visualizations. Designing such a system poses three challenges: a) the extraction of propagation patterns; b) the scalability of pattern presentations; and c) the analysis of propagation processes. To address these challenges, we develop a novel pattern mining framework to model pollutant transportation and extract frequent propagation patterns efficiently from large-scale atmospheric data. Furthermore, we organize the extracted patterns hierarchically based on the minimum description length (MDL) principle and empower expert users to explore and analyze these patterns effectively on the basis of pattern topologies. We demonstrated the effectiveness of our approach through two case studies conducted with a real-world dataset and positive feedback from domain experts."
 
 # Summary. An optional shortened abstract.
-summary = "IEEE TVCG Early Access (2019). (IEEE Vast 2019)"
+summary = "IEEE TVCG 26.1 (2020), 800-810. (IEEE VAST 2019)"
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/TVCG.2019.2934670"
