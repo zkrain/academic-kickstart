@@ -32,7 +32,7 @@ summary = "IEEE TVCG (Early Access)"
 doi = "10.1109/TVCG.2021.3071387"
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

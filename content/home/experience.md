@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "http://www.zhejianglab.com/"
   location = "Hangzhou, China"
   date_start = "2019-04-22"
-  date_end = ""
+  date_end = "2021-04-30"
 
 
 [[experience]]
