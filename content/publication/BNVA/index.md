@@ -20,13 +20,13 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Transaction on Visualization and Computer Graphics"
-publication_short = "IEEE TVCG 25.1 (2019), 459-469. (IEEE InfoVis 2018)"
+publication_short = "IEEE TVCG 27.2 (2021), 817-827. (IEEE VAST 2020)"
 
 # Abstract.
 abstract = "Bus routes are typically updated every 3–5 years to meet constantly changing travel demands. However, identifying deficient bus routes and finding their optimal replacements remain challenging due to the difficulties in analyzing a complex bus network and the large solution space comprising alternative routes. Most of the automated approaches cannot produce satisfactory results in real-world settings without laborious inspection and evaluation of the candidates. The limitations observed in these approaches motivate us to collaborate with domain experts and propose a visual analytics solution for the performance analysis and incremental planning of bus routes based on an existing bus network. Developing such a solution involves three major challenges, namely, a) the in-depth analysis of complex bus route networks, b) the interactive generation of improved route candidates, and c) the effective evaluation of alternative bus routes. For challenge a, we employ an overview-to-detail approach by dividing the analysis of a complex bus network into three levels to facilitate the efficient identification of deficient routes. For challenge b, we improve a route generation model and interpret the performance of the generation with tailored visualizations. For challenge c, we incorporate a conflict resolution strategy in the progressive decision-making process to assist users in evaluating the alternative routes and finding the most optimal one. The proposed system is evaluated with two usage scenarios based on real-world data and received positive feedback from the experts."
 
 # Summary. An optional shortened abstract.
-summary = "IEEE TVCG. (IEEE VAST 2020)"
+summary = "IEEE TVCG 27.2 (2021), 817-827. (IEEE VAST 2020)"
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/TVCG.2020.3030458"
