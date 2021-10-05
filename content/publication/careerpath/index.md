@@ -47,7 +47,7 @@ featured = false
 # projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "https://zjuidg.org/source/projects/CareerLens/CareerLens.pdf"
+url_pdf = "/CareerLens.pdf"
 # url_code = "#"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuidg.org/"

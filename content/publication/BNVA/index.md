@@ -47,7 +47,7 @@ featured = false
 # projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "https://zjuidg.org/source/projects/busnet/busnet.pdf"
+url_pdf = "/BNVA.pdf"
 # url_code = "#"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuidg.org/"

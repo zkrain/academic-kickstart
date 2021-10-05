@@ -47,7 +47,7 @@ featured = true
 # projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "http://zjuvis.org/files/AirVis.pdf"
+url_pdf = "/airvis.pdf"
 # url_code = "#"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuvis.org/"
