@@ -77,4 +77,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I’m a Ph.D. student of Com­puter Sci­ence study­ing at State Key Lab of CAD&CG, Zhe­jiang Uni­ver­sity (as of July 2021) and a [ZJUIDG](http://zjuidg.org/ "ZJUIDG") group mem­ber su­per­vised by Prof. [Yingcai Wu](http://ycwu.org/ "ycwu"). My cur­rent re­search in­ter­est are in Visual Analytics and Urban Computing.
+I’m a Ph.D. Candidate of Com­puter Sci­ence study­ing at State Key Lab of CAD&CG, Zhe­jiang Uni­ver­sity (as of November 2022) and a [ZJUIDG](http://zjuidg.org/ "ZJUIDG") group mem­ber su­per­vised by Prof. [Yingcai Wu](http://ycwu.org/ "ycwu"). My cur­rent re­search in­ter­est are in Visual Analytics, Spatiotemporal Visualization, and Urban Computing.
