@@ -20,13 +20,13 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Transaction on Visualization and Computer Graphics"
-publication_short = "IEEE TVCG (Early Access)"
+publication_short = "IEEE Transaction on Visualization and Computer Graphics, 28 (10): 3441-3455, 2022"
 
 # Abstract.
 abstract = "The increased availability of quantitative historical datasets has provided new research opportunities for multiple disciplines in social science. In this paper, we work closely with the constructors of a new dataset, CGED-Q (China Government Employee Database-Qing), that records the career trajectories of over 340,000 government officials in the Qing bureaucracy in China from 1760 to 1912. We use these data to study career mobility from a historical perspective and understand social mobility and inequality. However, existing statistical approaches are inadequate for analyzing career mobility in this historical dataset with its fine-grained attributes and long time span, since they are mostly hypothesis-driven and require substantial effort. We propose CareerLens, an interactive visual analytics system for assisting experts in exploring, understanding, and reasoning from historical career data. With CareerLens, experts examine mobility patterns in three levels-of-detail, namely, the macro-level providing a summary of overall mobility, the meso-level extracting latent group mobility patterns, and the micro-level revealing social relationships of individuals. We demonstrate the effectiveness and usability of CareerLens through two case studies and receive encouraging feedback from follow-up interviews with domain experts."
 
 # Summary. An optional shortened abstract.
-summary = "IEEE TVCG (Early Access)"
+summary = "An interactive visual analytics system for assisting experts in exploring, understanding, and reasoning from historical career data."
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/TVCG.2021.3067200"

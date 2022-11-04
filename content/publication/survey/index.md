@@ -20,13 +20,13 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Computational Visual Media"
-publication_short = "CVMJ"
+publication_short = "Computational Visual Media, 9 (1): 3-39, 2023"
 
 # Abstract.
 abstract = "Developing effective visual analytics systems demands care in characterization of domain problems and integration of visualization techniques and computational models. Urban visual analytics has already achieved remarkable success in tackling urban problems and providing fundamental services for smart cities. To promote further academic research and assist the development of industrial urban analytics systems, we comprehensively review urban visual analytics studies from four perspectives. In particular, we identify 8 urban domains and 22 types of popular visualization, analyze 7 types of computational method, and categorize existing systems into 4 types based on their integration of visualization techniques and computational models. We conclude with potential research directions and opportunities."
 
 # Summary. An optional shortened abstract.
-summary = "CVMJ"
+summary = "A comprehensive survey of urban visual analytics."
 
 # Digital Object Identifier (DOI)
 doi = "10.1007/s41095-022-0275-7"

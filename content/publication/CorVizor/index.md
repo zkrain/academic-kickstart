@@ -20,14 +20,14 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Transactions on Intelligent Transportation Systems"
-publication_short = "IEEE TITS 22.6 (2021), 3387-3402."
+publication_short = "IEEE Transactions on Intelligent Transportation Systems, 22 (6): 3387-3402, 2021"
 
 
 # Abstract.
 abstract = "With the rapid development of sensing technologies, massive spatiotemporal data have been acquired from the urban space with respect to different domains, such as transportation and environment. Numerous co-occurrence patterns (e.g., traffic speed < 10km/h, weather = foggy, and air quality = unhealthy) between the transportation data and other types of data can be obtained with given spatiotemporal constraints (e.g., within 3 kilometers and lasting for 2 hours) from these heterogeneous data sources. Such patterns present valuable implications for many urban applications, such as traffic management, pollution diagnosis, and transportation planning. However, extracting and understanding these patterns is beyond manual capability because of the scale, diversity, and heterogeneity of the data. To address this issue, a novel visual analytics system called CorVizor is proposed to identify and interpret these co-occurrence patterns. CorVizor comprises two major components. The first component is a co-occurrence mining framework involving three steps, namely, spatiotemporal indexing, co-occurring instance generation, and pattern mining. The second component is a visualization technique called CorView that implements a level-of detail mechanism by integrating tailored visualizations to depict the extracted spatiotemporal co-occurrence patterns. The case studies and expert interviews are conducted to demonstrate the effectiveness of CorVizor."
 
 # Summary. An optional shortened abstract.
-summary = "IEEE TITS 22.6 (2021), 3387-3402."
+summary = "A co-occurrence mining framework and a visualization technique for extracted spatiotemporal co-occurrence patterns."
 
 # Digital Object Identifier (DOI)
 doi = "10.1109/TITS.2020.2983226"
