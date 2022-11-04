@@ -34,7 +34,7 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
 
 [[education.courses]]
-  course = "Ph.D. Student, Computer Science"
+  course = "Ph.D. Candidate, Computer Science"
   institution = "Zhejiang University"
   year = "current"
 
