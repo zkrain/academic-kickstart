@@ -48,7 +48,7 @@ featured = true
 # projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "https://zjuidg.org/source/projects/corvizor/corvizor.PDF"
+url_pdf = "/corvizor.pdf"
 # url_code = "#"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuidg.org/"
