@@ -32,7 +32,7 @@ summary = "IEEE TVCG 27.2 (2021), 817-827. (IEEE VAST 2020)"
 doi = "10.1109/TVCG.2020.3030458"
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

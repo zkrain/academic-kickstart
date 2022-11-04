@@ -1,6 +1,6 @@
 +++
 title = "Interactive Visual Exploration of Longitudinal Historical Career Mobility Data"
-date = 2021-07-27T00:00:00
+date = 2022-10-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Yifang Wang", "Hongye Liang", "Xinhuan Shu", "Jiachen Wang", "Ke Xu", "**Zikun Deng**", "Cameron Campbell", "Bijia Chen", "Yingcai Wu", "Huamin Qu"]
@@ -32,7 +32,7 @@ summary = "IEEE TVCG (Early Access)"
 doi = "10.1109/TVCG.2021.3067200"
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.

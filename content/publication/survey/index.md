@@ -32,7 +32,7 @@ summary = "CVMJ"
 doi = "10.1007/s41095-022-0275-7"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -47,7 +47,7 @@ featured = true
 # projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "https://link.springer.com/content/pdf/10.1007/s41095-022-0275-7.pdf"
+url_pdf = "/survey.pdf"
 # url_code = "#"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuidg.org/"

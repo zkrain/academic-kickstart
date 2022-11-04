@@ -32,7 +32,7 @@ summary = "A novel interactive system for experts to visually analyze the contro
 doi = "10.1109/TVCG.2022.3209430"
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -47,7 +47,7 @@ featured = false
 # projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "https://zjuidg.org/source/projects/ECoalVis/ECoalVis.pdf"
+url_pdf = "/ecoalvis.pdf"
 # url_code = "#"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuidg.org/"

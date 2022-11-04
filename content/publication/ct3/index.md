@@ -1,6 +1,6 @@
 +++
 title = "You are experienced: Interactive tour planning with crowdsourcing tour data from web"
-date = 2022-11-04T00:00:00
+date = 2022-10-26T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Zikun Deng**", "Di Weng", "Yingcai Wu"]
@@ -47,7 +47,7 @@ featured = true
 # projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "https://link.springer.com/article/10.1007/s12650-022-00884-1"
+url_pdf = "/ct3.pdf"
 # url_code = "#"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuidg.org/"
