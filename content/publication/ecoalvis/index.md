@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Transaction on Visualization and Computer Graphics"
-publication_short = "IEEE Transaction on Visualization and Computer Graphics (Early Access)"
+publication_short = "IEEE Transaction on Visualization and Computer Graphics, 29(1): 1091-1101, 2023"
 
 # Abstract.
 abstract = "Improving the efficiency of coal-fired power plants has numerous benefits. The control strategy is one of the major factors affecting such efficiency. However, due to the complex and dynamic environment inside the power plants, it is hard to extract and evaluate control strategies and their cascading impact across massive sensors. Existing manual and data-driven approaches cannot well support the analysis of control strategies because these approaches are time-consuming and do not scale with the complexity of the power plant systems. Three challenges were identified: a) interactive extraction of control strategies from large-scale dynamic sensor data, b) intuitive visual representation of cascading impact among the sensors in a complex power plant system, and c) time-lag-aware analysis of the impact of control strategies on electricity generation efficiency. By collaborating with energy domain experts, we addressed these challenges with ECoalVis, a novel interactive system for experts to visually analyze the control strategies of coal-fired power plants extracted from historical sensor data. The effectiveness of the proposed system is evaluated with two usage scenarios on a real-world historical dataset and received positive feedback from experts."
