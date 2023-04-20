@@ -32,7 +32,7 @@ summary = "A new multiple-network-on-one-map technique for multilevel analysis o
 doi = "10.1109/TVCG.2022.3229953"
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
