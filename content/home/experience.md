@@ -17,13 +17,22 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Ph.D. Candidate"
+  title = "Tenure-Track Associate Professor"
+  company = "School of Software Engineering, South China University of Technology"
+  company_url = "http://www.zhejianglab.com/"
+  location = "Guangzhou, China"
+  date_start = "2023-08-11"
+  date_end = ""
+
+[[experience]]
+  title = "Ph.D. Student"
   company = "State Key Lab of CAD & CG, Zhejiang University"
   company_url = ""
   location = "Hangzhou, China"
   date_start = "2018-09-13"
-  date_end = ""
+  date_end = "2023-06-30"
   # description = """
   # Responsibilities include:
 

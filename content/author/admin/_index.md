@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Ph.D student, Computer Science"
+role = "Tenure-Track Associate Professor, Software Engineering"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Zhejiang University", url = "" } ]
+organizations = [ { name = "South China University of Technology", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -24,7 +24,10 @@ email = "zikun.rain@gmail.com"
 # List (academic) interests or hobbies
 interests = [
   "Visual Analytics",
-  "Urban Computing"
+  "Data Visualization",
+  "Smart City",
+  "Digital Twins",
+  "Industry 4.0"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,12 +37,12 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
 
 [[education.courses]]
-  course = "Ph.D. Candidate, Computer Science"
+  course = "Ph.D., Computer Science"
   institution = "Zhejiang University"
-  year = "current"
+  year = "2023"
 
 [[education.courses]]
-  course = "Bachelor, Transportation Engineering"
+  course = "B.Eng., Transportation Engineering"
   institution = "Sun Yat-sen University"
   year = 2018
 
@@ -77,4 +80,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I’m a Ph.D. Candidate of Com­puter Sci­ence study­ing at State Key Lab of CAD&CG, Zhe­jiang Uni­ver­sity (as of November 2022) and a [ZJUIDG](http://zjuidg.org/ "ZJUIDG") group mem­ber su­per­vised by Prof. [Yingcai Wu](http://ycwu.org/ "ycwu"). My cur­rent re­search in­ter­est are in Visual Analytics, Spatiotemporal Visualization, and Urban Computing.
+I’m a Tenure-Track Associate Professor in the School of Software Engineering, South China University of Technology. 
+I received my B.Eng. degree from the School of Intelligent Systems Engineering, Sun Yat-sen University in 2018, and Ph.D. degree from the State Key Lab of CAD & CG, Zhejiang University in 2023.
+I was a [ZJUIDG](http://zjuidg.org/ "ZJUIDG") group mem­ber su­per­vised by Prof. [Yingcai Wu](http://ycwu.org/ "ycwu").
+I have published over 10 papers in top-tier journals, including IEEE TVCG, IEEE ITS, and CVMJ.
+My cur­rent re­search in­ter­est are in Visual Analytic, Data Visualization, Data Mining, and their application in Smart City, Digital Twins, and Industry 4.0.
