@@ -24,14 +24,7 @@ publication_short = "IEEE Transaction on Visualization and Computer Graphics (Pr
 
 
 # Abstract.
-abstract = "In geo-related fields such as urban informatics, atmospheric science, and geography, large-scale spatial time (ST) series (i.e., geo-referred time series) are collected for monitoring and understanding important spatiotemporal phenomena.
-ST series visualization is an effective means of understanding the data and reviewing spatiotemporal phenomena, which is a prerequisite for in-depth data analysis.
-However, visualizing these series is challenging due to their large scales, inherent dynamics, and spatiotemporal nature.
-In this study, we introduce the notion of patterns of evolution in ST series.
-Each evolution pattern is characterized by 1) a set of ST series that are close in space and 2) a time period when the trends of these ST series are correlated.
-We then leverage Storyline techniques by considering an analogy between evolution patterns and sessions, and finally design a novel visualization called GeoChron, which is capable of visualizing large-scale ST series in an evolution pattern-aware and narrative-preserving manner.
-GeoChron includes a mining framework to extract evolution patterns and two-level visualizations to enhance its visual scalability.
-We evaluate GeoChron with two case studies, an informal user study, an ablation study, parameter analysis, and running time analysis."
+abstract = "In geo-related fields such as urban informatics, atmospheric science, and geography, large-scale spatial time (ST) series (i.e., geo-referred time series) are collected for monitoring and understanding important spatiotemporal phenomena. ST series visualization is an effective means of understanding the data and reviewing spatiotemporal phenomena, which is a prerequisite for in-depth data analysis. However, visualizing these series is challenging due to their large scales, inherent dynamics, and spatiotemporal nature. In this study, we introduce the notion of patterns of evolution in ST series. Each evolution pattern is characterized by 1) a set of ST series that are close in space and 2) a time period when the trends of these ST series are correlated. We then leverage Storyline techniques by considering an analogy between evolution patterns and sessions, and finally design a novel visualization called GeoChron, which is capable of visualizing large-scale ST series in an evolution pattern-aware and narrative-preserving manner. GeoChron includes a mining framework to extract evolution patterns and two-level visualizations to enhance its visual scalability. We evaluate GeoChron with two case studies, an informal user study, an ablation study, parameter analysis, and running time analysis."
 
 # Summary. An optional shortened abstract.
 summary = "A technique called GeoChron, which leverages the evolution pattern notion to meaningfully organize large-scale ST series into spatiotemporal partitions and visualize large-scale ST series in a pattern-aware and narrative-preserving way."
