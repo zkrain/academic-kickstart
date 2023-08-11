@@ -20,7 +20,8 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Journal of Visualization"
-publication_short = "Journal of Visualization (Early Access)"
+publication_short = "Journal of Visualization, 26: 385–401, 2023"
+
 
 # Abstract.
 abstract = "Planning an ideal tour schedule is a tedious process, where the attractions to visit and the order of visits need to be carefully determined. In this paper, we propose a novel interactive approach for tour planning. We first extract prior tourists’ experiences from the crowdsourcing tour data on the Web using frequent substring mining. We then design and implement a planning tool equipped with interactive visualizations, enabling users to learn the extracted experiences and plan their own tours. Our approach is evaluated with two usage scenarios on real-world tour data in two cities. Compared with previous methods, our approach strikes a balance between efficiency and reliability. On the one hand, we support the interactive manipulation of attraction sequence (i.e., multiple attractions at a time), thereby ensuring efficiency. On the other hand, we keep humans in the loop of the tour planning process via interactive visualizations. This paper shows the value of tour data published by tourists on the Web for personalized tour planning."
