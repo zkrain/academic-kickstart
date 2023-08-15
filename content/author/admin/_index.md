@@ -84,4 +84,4 @@ I’m a Tenure-Track Associate Professor in the School of Software Engineering, 
 I received my B.Eng. degree from the School of Intelligent Systems Engineering, Sun Yat-sen University in 2018, and Ph.D. degree from the State Key Lab of CAD & CG, Zhejiang University in 2023.
 I was a [ZJUIDG](http://zjuidg.org/ "ZJUIDG") group mem­ber su­per­vised by Prof. [Yingcai Wu](http://ycwu.org/ "ycwu").
 I have published over 10 papers in top-tier journals, including IEEE TVCG, IEEE ITS, and CVMJ.
-My cur­rent re­search in­ter­est are in Visual Analytic, Data Visualization, Data Mining, and their application in Smart City, Digital Twins, and Industry 4.0.
+My cur­rent re­search in­ter­ests are in Visual Analytic, Data Visualization, Data Mining, and their application in Smart City, Digital Twins, and Industry 4.0.
