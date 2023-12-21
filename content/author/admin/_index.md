@@ -73,14 +73,14 @@ user_groups = ["Researchers", "Visitors"]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/cv.pdf"
 
 +++
 
-I’m a Tenure-Track Associate Professor in the School of Software Engineering, South China University of Technology. 
+I’m a Tenure-Track Associate Professor in the School of Software Engineering, South China University of Technology.
 I received my B.Eng. degree from the School of Intelligent Systems Engineering, Sun Yat-sen University in 2018, and Ph.D. degree from the State Key Lab of CAD & CG, Zhejiang University in 2023.
 I was a [ZJUIDG](http://zjuidg.org/ "ZJUIDG") group mem­ber su­per­vised by Prof. [Yingcai Wu](http://ycwu.org/ "ycwu").
 I have published over 10 papers in top-tier journals, including IEEE TVCG, IEEE ITS, and CVMJ.
