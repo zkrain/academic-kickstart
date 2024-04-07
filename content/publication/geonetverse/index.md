@@ -52,7 +52,7 @@ url_pdf = "/GeoNetverse.pdf"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuidg.org/"
 # url_slides = "#"
-# url_video = "https://youtu.be/XsqdJd2y6Z0"
+url_video = "https://youtu.be/-GXWCpf9oqY"
 # url_poster = "#"
 # url_source = "#"
 
@@ -70,4 +70,3 @@ url_pdf = "/GeoNetverse.pdf"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-

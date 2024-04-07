@@ -53,7 +53,7 @@ url_pdf = "/compass.pdf"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuidg.org/"
 # url_slides = "#"
-# url_video = "https://www.youtube.com/watch?v=0T0xe-rppSo"
+url_video = "https://youtu.be/QxvGC9F9PaY"
 # url_poster = "#"
 # url_source = "#"
 
@@ -71,4 +71,3 @@ url_pdf = "/compass.pdf"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-
