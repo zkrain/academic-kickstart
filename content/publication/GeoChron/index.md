@@ -49,7 +49,7 @@ featured = false
 
 # Links (optional).
 url_pdf = "/GeoChron.pdf"
-# url_code = "#"
+url_code = "[#](https://gitee.com/zkrain/GeoChron)"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuidg.org/"
 # url_slides = "#"

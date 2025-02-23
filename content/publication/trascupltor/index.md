@@ -49,7 +49,7 @@ featured = false
 
 # Links (optional).
 url_pdf = "/TraSculptor.pdf"
-# url_code = "#"
+url_code = "[#](https://github.com/akihaisland/TraSculptor)"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuidg.org/"
 # url_slides = "#"
