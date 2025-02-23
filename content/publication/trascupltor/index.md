@@ -1,6 +1,6 @@
 +++
 title = "TraSculptor: Visual Analytics for Enhanced Decision-Making in Road Traffic Planning"
-date = 2025-02-23T00:00:00
+date = 2025-02-22T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Zikun Deng**", "Yuanbang Liu", "Mingrui Zhu", "Da Xiang", "Haiyue Yu", "Zicheng Su", "Qinglong Lu", "Tobias Schreck", "Yi Cai"]

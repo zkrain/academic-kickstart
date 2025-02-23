@@ -1,6 +1,6 @@
 +++
 title = "Volume-Based Space-Time Cube for Large-Scale Continuous Spatial Time Series"
-date = 2025-02-24T00:00:00
+date = 2025-02-23T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Zikun Deng**", "Jiabao Huang", "Chenxi Ruan", "Jialing Li", "Shaowu Gao", "Yi Cai"]
