@@ -48,7 +48,7 @@ featured = false
 # projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "/TraSculptor.pdf"
+url_pdf = "/VolumeSTCube.pdf"
 # url_code = "#"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuidg.org/"
