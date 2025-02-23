@@ -49,7 +49,7 @@ featured = false
 
 # Links (optional).
 url_pdf = "/VolumeSTCube.pdf"
-url_code = "[#](https://github.com/hjbcct/VolumeSTCube)"
+url_code = "https://github.com/hjbcct/VolumeSTCube"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuidg.org/"
 # url_slides = "#"
