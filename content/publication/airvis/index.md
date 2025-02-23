@@ -32,7 +32,7 @@ summary = "A novel visual analytics approach for efficiently capturing and inter
 doi = "10.1109/TVCG.2019.2934670"
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -70,4 +70,3 @@ url_video = "https://youtu.be/orjRmmGVT-4"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-

@@ -33,7 +33,7 @@ summary = "A co-occurrence mining framework and a visualization technique for ex
 doi = "10.1109/TITS.2020.2983226"
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -71,4 +71,3 @@ url_video = "https://www.youtube.com/watch?v=0T0xe-rppSo"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
-
