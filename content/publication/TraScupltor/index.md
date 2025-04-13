@@ -48,7 +48,7 @@ featured = false
 # projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = "/TraSculptor.pdf"
+url_pdf = "https://zkdeng.org/publication/TraScupltor/TraSculptor.pdf"
 url_code = "https://github.com/akihaisland/TraSculptor"
 # url_dataset = "#"
 # url_project = "https://srvis.zjuidg.org/"
